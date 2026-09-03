@@ -122,7 +122,7 @@
   "cfg.kineticdummy.dummy.showSummaryStats.tooltip": "是否在结算界面中显示详细伤害统计（总伤害/连击数）。",
   "cfg.kineticdummy.dummy.showSummaryTime.tooltip": "是否在结算界面中显示战斗持续时间。",
   "cfg.kineticdummy.dummy.sumScale.tooltip": "结算界面文字的整体缩放比例。",
-  "gui.kineticdummy.module.name": "KineticDummy",
+  "gui.kineticdummy.module.name": "动力伤害假人",
   "gui.kineticdummy.module.function": "伤害假人",
   "gui.kineticdummy.module.tooltip": "提供伤害测试假人，并管理伤害统计、显示以及假人行为。"
 }
